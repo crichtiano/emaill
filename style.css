@@ -63,6 +63,7 @@ a {
     color: #666666;
     font-family: "Arial";
     text-align: center;
+    padding-bottom: 20px;
 }
 
 .icongray {
@@ -158,9 +159,7 @@ a {
 .doc a{
     color: #ffffff;
 }
-.btnft a{
-    color: #ffffff;
-}
+
 .btnft{
     text-align: center;
     background-color: #1f1f56;
@@ -170,5 +169,17 @@ a {
     padding: 10px 20px;
     font-weight: bold;
     font-family: "Arial";
+    color: #ffffff;
+}
+.title{
+    width: 100%;
+}
+.tdicon{
+    padding-top: 20px;
+}
+.btncon{
     text-align: center;
+}
+.imgho{
+    width: 100%;
 }
