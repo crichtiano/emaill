@@ -127,3 +127,48 @@ a {
     color: #9999a6;
     font-family: "Arial";
 }
+
+.footul {
+    text-align: center;
+    padding: 0;
+}
+
+.hauseimg {
+    text-align: center;
+}
+
+.hause {
+    padding: 0px 0 0 20px;
+}
+
+.tr1 {
+    border: 1px solid #e4e4ec;
+}
+
+.doc {
+    background-color: #fd8300;
+    border-radius: 20px;
+    font-size: 14px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
+.doc a{
+    color: #ffffff;
+}
+.btnft a{
+    color: #ffffff;
+}
+.btnft{
+    text-align: center;
+    background-color: #1f1f56;
+    border-radius: 20px;
+    font-size: 14px;
+    display: inline-block;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-family: "Arial";
+    text-align: center;
+}
